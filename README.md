@@ -11,6 +11,21 @@ and adding watermarks to images in PPM format.
 - Add borders and watermarks to images.
 - Test all features using the built-in AutoTest functionality.
 
+#Original 
+![Screenshot 2025-04-30 173856](https://github.com/user-attachments/assets/693e47d0-49b4-42e3-b354-f131c7f87d16)
+
+#Hmirror
+![Screenshot 2025-04-30 173950](https://github.com/user-attachments/assets/431c782d-d93e-46b0-930e-f5884a970093)
+
+#Pixelate
+![Screenshot 2025-04-30 173911](https://github.com/user-attachments/assets/f014256b-eb8a-4e10-8b02-19df083a0c47)
+
+#Shuffle
+![Screenshot 2025-04-30 173923](https://github.com/user-attachments/assets/d02d2403-ef9e-4809-8d56-7e0a584998c6)
+
+#Watermark
+![Screenshot 2025-04-30 173934](https://github.com/user-attachments/assets/3f06ae4e-c0ba-4477-9cf9-5c1355515494)
+
 
 ## Build Instructions
 
