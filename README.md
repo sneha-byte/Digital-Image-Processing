@@ -37,10 +37,11 @@ and adding watermarks to images in PPM format.
 1. Ensure you have gcc installed on your system.
 2. Open a terminal in the project directory.
 3. Run the following command to build the project:
-  Make clean
-  Make run
-  Make test
-
+```bash
+Make clean
+Make run
+Make test
+```
 
 
 
